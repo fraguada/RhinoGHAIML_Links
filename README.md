@@ -1,3 +1,4 @@
+- https://discourse.mcneel.com/c/rhino/artificial-intelligence-rhino/162
 - https://www.food4rhino.com/en/browse?f%5B0%5D=im_field_term_reference_category%3A864
 - https://rhino-gpt.com/
 - https://genxdefinition.com/ 
