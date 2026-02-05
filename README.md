@@ -15,6 +15,5 @@
 - https://www.evolvelab.io/veras 
 - https://www.food4rhino.com/en/app/ambrosinus-toolkit
 - https://provingground.io/2018/03/12/new-machine-learning-examples-with-lunchboxml/
-- https://github.com/mcneel/Rhino.Ecologic/blob/main/docs/User_guide.md
 - https://blog.iaac.net/projects/macad-master-in-advanced-computation-for-architecture-and-design/?course_name=macad-24-24-aia-studio
 - https://blog.iaac.net/gaia/
