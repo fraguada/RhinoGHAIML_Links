@@ -15,3 +15,4 @@
 - https://www.evolvelab.io/veras 
 - https://www.food4rhino.com/en/app/ambrosinus-toolkit
 - https://provingground.io/2018/03/12/new-machine-learning-examples-with-lunchboxml/
+- https://github.com/mcneel/Rhino.Ecologic/blob/main/docs/User_guide.md
